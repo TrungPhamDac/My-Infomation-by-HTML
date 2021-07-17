@@ -23,6 +23,12 @@ h3 {
     opacity: 0.8;
 }
 
+h4{
+    color: #426696;
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.8;
+}
 main{
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
@@ -113,7 +119,8 @@ main{
 }
 
 .contact{
-    /* background-color: linear-gradient(to right top, #65dfc9, #6cdbeb); */
+    /* display: flex; */
+    /* background-color: linear-gradient(to right top, #51f542, #03fc52); */
     /* border-radius: 0rem; */
     /* color: white; */
     /* padding: 1rem; */
@@ -121,6 +128,12 @@ main{
     /* position: absolute; */
     /* top: -10%; */
     /* right: 10%; */
+}
+
+#ContactMe{
+    /* color: linear-gradient(to right top, #51f542, #03fc52); */
+    color:#51f542;
+    
 }
 
 .status{
